@@ -1,0 +1,1 @@
+-E randomtext* input_dir/input2
